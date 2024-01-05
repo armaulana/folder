@@ -11,7 +11,7 @@
   <body>
     <nav class="navbar navbar-light bg-light">
       <div class="container-fluid">
-        <a class="navbar-brand h6" href="#"><b>Navbar</b></a>
+        <a class="navbar-brand h6" href="extend.php"><b>Navbar</b></a>
       </div>
     </nav>
     <section class="mt-2">
