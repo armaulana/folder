@@ -37,4 +37,4 @@
     alert('tomol 2');
   }
 </script>
-<?php echo 'test'; ?>
+<?php ?>
