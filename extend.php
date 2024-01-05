@@ -1,1 +1,1 @@
-<?php echo 'extend'; ?>
+<?php phpinfo(); ?>
