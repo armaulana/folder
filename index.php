@@ -1,4 +1,3 @@
-<?php echo 'print'; ?>
 <html>
   <head>
     <title>Home</title>
